@@ -12,7 +12,7 @@ class Solution {
                 map.put(ch,1);
             }
         }
-        
+        // System.out.println(map);
         char ans = 'a';
         int maxFreq = -1;
 
